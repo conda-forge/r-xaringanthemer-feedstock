@@ -1,11 +1,11 @@
-About r-xaringanthemer
-======================
+About r-xaringanthemer-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-xaringanthemer-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pkg.garrickadenbuie.com/xaringanthemer/, https://github.com/gadenbuie/xaringanthemer
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-xaringanthemer-feedstock/blob/main/LICENSE.txt)
 
 Summary: Create beautifully color-coordinated and customized themes for your 'xaringan' slides, without writing any CSS. Complete your slide theme with 'ggplot2' themes that match the font and colors used in your slides.  Customized styles can be created directly in your slides' 'R Markdown' source file or in a separate external script.
 
