@@ -1,4 +1,4 @@
-{% set version = "0.4.2" %}
+{% set version = "0.4.3" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,10 +9,10 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/xaringanthemer_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/xaringanthemer/xaringanthemer_{{ version }}.tar.gz
-  sha256: 5fec74b2caed9037d0228cb008f4058612293172b7cacc0e538798606ac2941c
+  sha256: 8628690f551e119cc7214c75cd138ef4f27f9e4f361537c7d126922c88c6cc00
 
 build:
-  number: 3
+  number: 0
   noarch: generic
   rpaths:
     - lib/R/lib/
